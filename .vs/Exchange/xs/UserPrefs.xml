@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{E0CF10E7-71C5-4AE3-BAC4-D6347C69D4CE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Exchange/BankManager.cs">
+    <Files>
+      <File FileName="Exchange/Program.cs" Line="84" Column="1" />
+      <File FileName="../Exchange_test/Exchange_test/BankUI_test.cs" Line="21" Column="37" />
+      <File FileName="../Exchange_test/Exchange_test/ShareM_test.cs" />
+      <File FileName="Exchange/BankUI.cs" />
+      <File FileName="Exchange/RecordManager.cs" />
+      <File FileName="Exchange/BankManager.cs" Line="29" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Exchange" expanded="True">
+            <Node name="Exchange" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="BankManager.cs" selected="True" />
+            </Node>
+            <Node name="Exchange_test" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Exchange" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Exchange PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

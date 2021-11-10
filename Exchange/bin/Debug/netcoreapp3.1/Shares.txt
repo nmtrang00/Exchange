@@ -1,0 +1,16 @@
+{"code":"FLC","price":13.45,"state":false}
+{"code":"FLC","price":13.45,"state":false}
+{"code":"FLC","price":14.45,"state":false}
+{"code":"FLC","price":15,"state":false}
+{"code":"VIC","price":14.45,"state":true}
+{"code":"VIC","price":14.45,"state":true}
+{"code":"VIC","price":14.45,"state":true}
+{"code":"VIC","price":15,"state":true}
+{"code":"VIC","price":15.3,"state":true}
+{"code":"VIC","price":15.3,"state":true}
+{"code":"VIC","price":15.75,"state":true}
+{"code":"VIC","price":15.75,"state":true}
+{"code":"VNM","price":15.3,"state":true}
+{"code":"VNM","price":15.56,"state":true}
+{"code":"VNM","price":16,"state":true}
+{"code":"VNM","price":16.75,"state":true}

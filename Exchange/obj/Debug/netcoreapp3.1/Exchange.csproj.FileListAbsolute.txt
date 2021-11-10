@@ -1,0 +1,12 @@
+/Users/trangnguyen/Documents/Study_materials/SDAM2/Project/Exchange_v5/Exchange/Exchange/obj/Debug/netcoreapp3.1/Exchange.csproj.AssemblyReference.cache
+/Users/trangnguyen/Documents/Study_materials/SDAM2/Project/Exchange_v5/Exchange/Exchange/obj/Debug/netcoreapp3.1/Exchange.AssemblyInfoInputs.cache
+/Users/trangnguyen/Documents/Study_materials/SDAM2/Project/Exchange_v5/Exchange/Exchange/obj/Debug/netcoreapp3.1/Exchange.AssemblyInfo.cs
+/Users/trangnguyen/Documents/Study_materials/SDAM2/Project/Exchange_v5/Exchange/Exchange/obj/Debug/netcoreapp3.1/Exchange.csproj.CoreCompileInputs.cache
+/Users/trangnguyen/Documents/Study_materials/SDAM2/Project/Exchange_v5/Exchange/Exchange/bin/Debug/netcoreapp3.1/Exchange.deps.json
+/Users/trangnguyen/Documents/Study_materials/SDAM2/Project/Exchange_v5/Exchange/Exchange/bin/Debug/netcoreapp3.1/Exchange.runtimeconfig.json
+/Users/trangnguyen/Documents/Study_materials/SDAM2/Project/Exchange_v5/Exchange/Exchange/bin/Debug/netcoreapp3.1/Exchange.runtimeconfig.dev.json
+/Users/trangnguyen/Documents/Study_materials/SDAM2/Project/Exchange_v5/Exchange/Exchange/bin/Debug/netcoreapp3.1/Exchange.dll
+/Users/trangnguyen/Documents/Study_materials/SDAM2/Project/Exchange_v5/Exchange/Exchange/bin/Debug/netcoreapp3.1/Exchange.pdb
+/Users/trangnguyen/Documents/Study_materials/SDAM2/Project/Exchange_v5/Exchange/Exchange/obj/Debug/netcoreapp3.1/Exchange.dll
+/Users/trangnguyen/Documents/Study_materials/SDAM2/Project/Exchange_v5/Exchange/Exchange/obj/Debug/netcoreapp3.1/Exchange.pdb
+/Users/trangnguyen/Documents/Study_materials/SDAM2/Project/Exchange_v5/Exchange/Exchange/obj/Debug/netcoreapp3.1/Exchange.genruntimeconfig.cache
